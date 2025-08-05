@@ -9,10 +9,10 @@ This project focuses on analyzing website traffic data to uncover user behavior,
 ## 📦 File: `website_traffic_project.zip`
 
 ### 📁 Contents:
-- `website_traffic_analysis.ipynb` → Jupyter Notebook with full analysis
-- `website_traffic_data.csv` → Raw website traffic dataset
+- `website_traffic.ipynb` → Jupyter Notebook with full analysis
+- `traffic.csv` → Raw website traffic dataset
 - `requirements.txt` → Required Python libraries
-- `website_traffic_report.pdf` → Project report (problem statement, insights, outcomes)
+- `website traffic analysis report.pdf` → Project report (problem statement, insights, outcomes)
 
 ---
 
